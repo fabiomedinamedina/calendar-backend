@@ -18,9 +18,9 @@ app.use( express.static('public') );
 app.use( express.json() );
 
 // Rutas
-// TODO: Auth - Crear, Login, RenewToken
-app.use( '/api/auth', require('./routes/auth') );
-// TODO: Events - CRUD
+
+app.use( '/api/auth', require('./routes/authRoutes') );
+app.use( '/api/events', require('./routes/eventsRoutes') );
 
 
 
