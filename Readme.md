@@ -1,4 +1,6 @@
 # Calendar Backend
+Este es el respositorio del backend del proyecto Calendar App del curso en Udemy de React con Fernando.<br />
+
 <div>
 
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -8,10 +10,12 @@
   <img alt="JWT/JSON Web Token" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
   <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
 </div>
-<br />
-Este es el respositorio del backend del proyecto Calendar App del curso en Udemy de React con Fernando.
 
-Git de FrontEnd: https://github.com/fabiomedinamedina/calendar-app
+
+<br />
+Link de demo backend: https://backend.calendar.fabiomedina.com/<br />
+Link de demo frontend: https://calendar.fabiomedina.com/<br />
+Git de frontend: https://github.com/fabiomedinamedina/calendar-app<br />
 
 ## Installation
 
@@ -50,11 +54,13 @@ yarn build
 
 ## Contributing
 Want to contribute? Great! Pull requests are allowed ;)
+
 ## Author
-Fabio Medina [LinkedIn][linkedin]
+Fabio Medina [LinkedIn][linkedin] [Website][website]
 
 ## License
 
 MIT
 
 [linkedin]: <https://www.linkedin.com/in/fabio-medina-medina/>
+[website]: <https://fabiomedina.com/>
